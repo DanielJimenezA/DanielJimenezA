@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daniel Jiménez</h1>
 <h3 align="center">Passionate about analyzing and understanding processes to make decisions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljimeneza&label=Profile%20views&color=0e75b6&style=flat" alt="danieljimeneza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=danieljimeneza&label=Profile%20views&color=0e75b6&style=flat" alt="danieljimeneza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieljimeneza" alt="danieljimeneza" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieljimeneza" alt="danieljimeneza" /></a> </p>
 
 - 🔭 I’m currently working on **QA**
 
 - 👯 I’m looking to collaborate on **Innovative Ideas**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
