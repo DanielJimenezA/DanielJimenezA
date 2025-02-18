@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-  
-  <p> 
-    <img src="https://komarev.com/ghpvc/?username=danieljimeneza&label=Profile%20views&color=0e75b6&style=flat" alt="danieljimeneza" />
-  </p>
 
    🔭 I’m currently working on **QA**  
    👯 I’m looking to collaborate on **Innovative Ideas**  
@@ -30,9 +26,11 @@
 
   # 📊 GitHub Stats:
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielJimenezA&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielJimenezA&theme=radical&hide_border=false" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJimenezA&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </p>
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=danieljimeneza&label=Profile%20views&color=0e75b6&style=flat" alt="danieljimeneza" />
   </p>
 </div>
 
