@@ -3,7 +3,7 @@
 
 <div align="center">
   <h2>🏆 TryHackMe Badge</h2>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/d4n3p5y.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/d4n3p5y.png" alt="Your Image Badge" /> 
 </div>
 
 <div align="center">
