@@ -13,7 +13,7 @@
 
   ## 🌐 Socials:
 <p>
-  <a href="https://www.linkedin.com/in/daniel-j-55605b321/">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://tryhackme.com/p/d4n3p5y">
