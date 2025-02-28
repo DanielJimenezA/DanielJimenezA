@@ -8,7 +8,7 @@
 
 <div align="center">
 
-   🔭 I’m currently working on **QA**  
+   🔭 I’m currently working on **Cyber-Security**  
    👯 I’m looking to collaborate on **Innovative Ideas**  
 
   ## 🌐 Socials:
