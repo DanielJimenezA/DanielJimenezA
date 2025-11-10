@@ -18,7 +18,7 @@
   <a href="https://tryhackme.com/p/d4n3p5y">
     <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://learn.microsoft.com/">
+  <a href="https://learn.microsoft.com/es-mx/users/danielantoniojimenezangeles-2066"/>
     <img src="https://img.shields.io/badge/Microsoft%20Learn-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn">
   </a>
 </p>
