@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 Hi, I'm Daniel Jiménez</h1>
 
 <h3 align="center">
@@ -47,7 +46,7 @@ Passionate about transforming data into actionable insights, optimizing processe
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/daniel-j-55605b321/">
+<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
