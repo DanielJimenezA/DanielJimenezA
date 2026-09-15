@@ -1,168 +1,196 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Daniel Jiménez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Daniel%20Jiménez&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20·%20Cybersecurity%20Engineer%20·%20AI%20%26%20Analytics&descAlignY=58&descSize=18&descColor=B39DFF"/>
 
-### `Data Engineer` • `Cybersecurity Engineer` • `AI & Data Analytics`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Transforming+data+into+strategic+decisions;Building+secure%2C+data-driven+systems;Data+Engineering+%7C+Cybersecurity+%7C+AI;From+raw+data+to+real+impact." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Transforming+data+into+strategic+decisions;Building+secure+data-driven+solutions;Data+Engineering+%7C+Cybersecurity+%7C+Artificial+Intelligence" />
+<br/>
 
-<p>
+<img src="https://img.shields.io/badge/Master's%20Degree-Security%20%26%20Information%20Technologies-00F7FF?style=for-the-badge&logo=academia&logoColor=black"/>
+<img src="https://img.shields.io/badge/Computer%20Engineer-7A00FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Master's%20Degree-Engineering%20in%20Security%20and%20Information%20Technologies-00F7FF?style=for-the-badge&logo=academia&logoColor=black"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Computer%20Engineer-0088FF?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<a href="https://linkedin.com/in/d4n3p5y">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/DanielJimenezA">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://tryhackme.com/p/d4n3p5y">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+<a href="mailto:tu.correo@ejemplo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DanielJimenezA&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br/>
 
-# ⚡ About Me
+## 👁️‍🗨️ Whoami
 
 ```yaml
-Name: Daniel Jiménez
+$ whoami --verbose
 
-Role:
-  - Data Engineer
-  - Data Analyst
-  - Cybersecurity Engineer
+name:        Daniel Jiménez
+role:        [Data Engineer, Cybersecurity Engineer, AI & Data Analyst]
+education:   Master's Degree — Engineering in Security & Information Technologies
+             Computer Engineer (B.Eng.)
 
-Current Focus:
-  - Big Data
-  - Artificial Intelligence
-  - Data Engineering
-  - Business Intelligence
-  - Cloud Technologies
-  - Information Security
+focus_2026:
+  - Big Data & distributed pipelines
+  - Applied Artificial Intelligence
+  - Offensive & defensive Cybersecurity
+  - Business Intelligence & Cloud Data Platforms
 
-Education:
-  Master's Degree in Engineering in Security and Information Technologies
+mission: >
+  Design scalable, secure and data-driven systems that turn
+  raw information into decisions organizations can trust.
 
-Mission:
-  Build scalable, secure and data-driven solutions
+status: "🟢 open to data engineering & cybersecurity collaborations"
 ```
 
----
+<br/>
 
-# 🌐 Connect with Me
+## 🧠 Core Expertise
+
+<table align="center">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🛠️ Data Engineering
+Pipelines, ETL/ELT, data quality and warehousing at scale.
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔐 Cybersecurity
+Infrastructure hardening, log analysis, offensive security.
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,git"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 AI & Analytics
+Modeling, dashboards and insight generation from raw data.
+
+<img src="https://skillicons.dev/icons?i=r,javascript,html,css"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💻 Technology Stack
 
 <div align="center">
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+**Languages & Scripting**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,r,javascript,bash,html,css"/>
 
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/><br/>
 
-<a href="https://tryhackme.com/p/d4n3p5y">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
-</a>
-
-</div>
-
----
-
-# 🏆 TryHackMe
-
-<div align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/d4n3p5y.png" width="320"/>
-
-</div>
-
----
-
-# 💻 Technology Stack
-
-<div align="center">
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python,r,javascript,html,css,bash"/>
-
-### Data Engineering
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github"/>
-
-### Data Science
-
+**Data & Databases**
+<br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
-### Cybersecurity
+<br/><br/>
 
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github"/>
+
+<br/><br/>
+
+**Security**
+<br/>
 <img src="https://skillicons.dev/icons?i=linux,kali"/>
 
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=azure,aws"/>
-
 </div>
 
----
+<br/>
 
-# 📊 GitHub Analytics
+## 🏆 TryHackMe
+
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/d4n3p5y.png" width="340"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielJimenezA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=B39DFF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJimenezA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=DanielJimenezA&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=B39DFF&currStreakLabel=00F7FF"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DanielJimenezA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
----
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielJimenezA&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=B39DFF&point=FFFFFF"/>
+</div>
+
+<br/>
+
+> 💡 **Tip para activar la snake de contribuciones:** agrega el workflow oficial [`platane/snk`](https://github.com/Platane/snk) a este repo (`.github/workflows/snake.yml`) y luego inserta aquí:
+> `https://github.com/DanielJimenezA/DanielJimenezA/blob/output/github-contribution-grid-snake.svg`
+
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🏥 **IMSS-BIENESTAR Dashboard** | Dashboard interactivo para monitorear la implementación de sistemas de salud digital | `Python` `JavaScript` `Leaflet` |
+| 📊 **Data Quality Framework** | Validación, limpieza y profiling de datos para datasets del sector salud | `Python` `Pandas` `Polars` |
+| 🔐 **Cybersecurity Toolkit** | Automatización de seguridad, análisis de logs y auditoría de infraestructura | `Python` `Linux` `Bash` |
 
 </div>
 
----
+<br/>
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielJimenezA&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project                     | Description                                                                       | Technologies                  |
-| --------------------------- | --------------------------------------------------------------------------------- | ----------------------------- |
-| 🏥 IMSS-BIENESTAR Dashboard | Interactive dashboard for monitoring the implementation of digital health systems | Python · JavaScript · Leaflet |
-| 📊 Data Quality Framework   | Data validation, cleansing and profiling for healthcare datasets                  | Python · Pandas · Polars      |
-| 🔐 Cybersecurity Toolkit    | Security automation, log analysis and infrastructure auditing                     | Python · Linux                |
-
----
-
-# ⚙️ Current Interests
+## ⚙️ Current Focus
 
 ```text
-███████████████████████████  Data Engineering
-
-███████████████████████      Artificial Intelligence
-
-██████████████████████       Cybersecurity
-
-█████████████████            Cloud Computing
-
-████████████████             Data Visualization
+Data Engineering        ███████████████████████████░░  92%
+Artificial Intelligence ███████████████████████░░░░░░  78%
+Cybersecurity           ██████████████████████░░░░░░░  74%
+Cloud Computing         █████████████████░░░░░░░░░░░░  58%
+Data Visualization      ████████████████░░░░░░░░░░░░░  54%
 ```
 
----
+<br/>
 
 <div align="center">
 
-## "Turning data into knowledge and security into trust."
+### 💬 "Turning data into knowledge, and security into trust."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
 
 </div>
