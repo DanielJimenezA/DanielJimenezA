@@ -156,8 +156,15 @@ Modeling, dashboards and insight generation from raw data.
 
 <br/>
 
-> 💡 **Tip para activar la snake de contribuciones:** agrega el workflow oficial [`platane/snk`](https://github.com/Platane/snk) a este repo (`.github/workflows/snake.yml`) y luego inserta aquí:
-> `https://github.com/DanielJimenezA/DanielJimenezA/blob/output/github-contribution-grid-snake.svg`
+## 🧊 3D Contribution Profile
+
+<div align="center">
+
+<img src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=DanielJimenezA&style=alberto&animate=true" alt="GitHub 3D Contribution Calendar"/>
+
+</div>
+
+> Calendario de contribuciones en 3D generado en vivo — no requiere workflows ni configuración adicional, se actualiza solo cuando cambian tus datos públicos de GitHub.
 
 <br/>
 
