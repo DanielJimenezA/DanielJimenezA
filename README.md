@@ -20,9 +20,6 @@
 <a href="https://tryhackme.com/p/d4n3p5y">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF3E9A"/>
 </a>
-<a href="mailto:tu.correo@ejemplo.com">
-<img src="https://img.shields.io/badge/Email-FF3E9A?style=for-the-badge&logo=gmail&logoColor=05060F"/>
-</a>
 
 <br/><br/>
 
